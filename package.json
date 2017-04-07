@@ -1,17 +1,40 @@
 {
-    "buildNpmdoc":"gulp-inject-string",
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "buildNpmdoc": "gulp-inject-string",
+    "description": "api documentation for [gulp-inject-string (v1.1.0)](https://github.com/Schmicko/gulp-inject-string) [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-inject-string.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-inject-string) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-inject-string.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-inject-string)",
     "devDependencies": {
-        "gulp-inject-string": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "gulp-inject-string": "*",
         "utility2": "kaizhu256/node-utility2#alpha"
     },
-    "name":"npmdoc-gulp-inject-string",
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmdoc/node-npmdoc-gulp-inject-string",
+    "keywords": [
+        "documentation",
+        "gulp-inject-string"
+    ],
+    "license": "MIT",
+    "main": "lib.npmdoc_gulp_inject_string.js",
+    "name": "npmdoc-gulp-inject-string",
+    "nameAlias": "npmdoc_gulp_inject_string",
+    "nameOriginal": "npmdoc-gulp-inject-string",
+    "os": [
+        "darwin",
+        "linux"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/npmdoc/node-npmdoc-gulp-inject-string"
     },
     "scripts": {
-        "build-ci": "utility2 shReadmeTest build_ci.sh"
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "(set -e; npm install \"kaizhu256/node-utility2#alpha\"; utility2 shDeployHeroku)",
+        "postinstall": "if [ -f npm_scripts.sh ]; then ./npm_scripts.sh postinstall; fi",
+        "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
     "version": "0.0.1"
 }
