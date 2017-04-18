@@ -1,30 +1,30 @@
 <svg height="430" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="430" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 01:19:47 +0000    31787 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 01:19:47 +0000     1071 byte  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 01:19:47 +0000     3594 byte  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 01:19:47 +0000      527 byte  examples/build/after.html</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 01:19:47 +0000      512 byte  examples/build/afterEach.html</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 01:19:47 +0000      545 byte  examples/build/append.html</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 01:19:47 +0000      553 byte  examples/build/before.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 01:19:47 +0000      500 byte  examples/build/beforeEach.html</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 01:19:47 +0000      545 byte  examples/build/prepend.html</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 01:19:47 +0000      490 byte  examples/build/replace.html</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 01:19:47 +0000      573 byte  examples/build/wrap.html</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 01:19:47 +0000     2092 byte  examples/gulpfile.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 01:19:47 +0000      486 byte  examples/src/example.html</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 01:19:47 +0000     2614 byte  index.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-07 01:19:47 +0000     2475 byte  package.json</tspan>
-<tspan x="10" y="266"> 15.  2017-04-07 01:19:47 +0000      374 byte  tests/expected/after.html</tspan>
-<tspan x="10" y="282"> 16.  2017-04-07 01:19:47 +0000      393 byte  tests/expected/afterEach.html</tspan>
-<tspan x="10" y="298"> 17.  2017-04-07 01:19:47 +0000      409 byte  tests/expected/afterEach2.html</tspan>
-<tspan x="10" y="314"> 18.  2017-04-07 01:19:47 +0000      375 byte  tests/expected/before.html</tspan>
-<tspan x="10" y="330"> 19.  2017-04-07 01:19:47 +0000      395 byte  tests/expected/beforeEach.html</tspan>
-<tspan x="10" y="346"> 20.  2017-04-07 01:19:47 +0000      409 byte  tests/expected/beforeEach2.html</tspan>
-<tspan x="10" y="362"> 21.  2017-04-07 01:19:47 +0000      351 byte  tests/expected/replace.html</tspan>
-<tspan x="10" y="378"> 22.  2017-04-07 01:19:47 +0000      355 byte  tests/expected/replace2.html</tspan>
-<tspan x="10" y="394"> 23.  2017-04-07 01:19:47 +0000      355 byte  tests/fixtures/index.html</tspan>
-<tspan x="10" y="410"> 24.  2017-04-07 01:19:47 +0000    11794 byte  tests/test.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 17:00:38 +0000    31787 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 17:00:38 +0000     1071 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 17:00:38 +0000     3594 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 17:00:38 +0000      527 bytes  examples/build/after.html</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 17:00:38 +0000      512 bytes  examples/build/afterEach.html</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 17:00:38 +0000      545 bytes  examples/build/append.html</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 17:00:38 +0000      553 bytes  examples/build/before.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 17:00:38 +0000      500 bytes  examples/build/beforeEach.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 17:00:38 +0000      545 bytes  examples/build/prepend.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 17:00:38 +0000      490 bytes  examples/build/replace.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 17:00:38 +0000      573 bytes  examples/build/wrap.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 17:00:38 +0000     2092 bytes  examples/gulpfile.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 17:00:38 +0000      486 bytes  examples/src/example.html</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 17:00:38 +0000     2614 bytes  index.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 17:00:38 +0000     2475 bytes  package.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 17:00:38 +0000      374 bytes  tests/expected/after.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 17:00:38 +0000      393 bytes  tests/expected/afterEach.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 17:00:38 +0000      409 bytes  tests/expected/afterEach2.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 17:00:38 +0000      375 bytes  tests/expected/before.html</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 17:00:38 +0000      395 bytes  tests/expected/beforeEach.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 17:00:38 +0000      409 bytes  tests/expected/beforeEach2.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 17:00:38 +0000      351 bytes  tests/expected/replace.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 17:00:38 +0000      355 bytes  tests/expected/replace2.html</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 17:00:38 +0000      355 bytes  tests/fixtures/index.html</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 17:00:38 +0000    11794 bytes  tests/test.js</tspan>
 </text>
 </svg>
